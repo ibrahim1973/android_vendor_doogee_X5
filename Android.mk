@@ -2,7 +2,7 @@ LOCAL_PATH := $(call my-dir)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE := libdpframework
-LOCAL_MODULE_OWNER := $VENDOR
+LOCAL_MODULE_OWNER := Doogee
 LOCAL_SRC_FILES := proprietary/lib/libdpframework.so
 LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE_SUFFIX := .so
